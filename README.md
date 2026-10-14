@@ -53,3 +53,12 @@ Rooms, so only users with the same code can see each other
 Movement trail for each user
 Online users counter
 Saving location history in MongoDB
+
+
+## 📺 Live Demo & Video Walkthrough
+
+Watch the complete real-time tracking demonstration here:
+
+[![Watch Demo Video](https://img.shields.io/badge/Loom_Demo-Watch_Video-blue?style=for-the-badge&logo=loom)(https://www.loom.com/share/89d7956ad66c49218a29bbc1ed4f7520)
+
+> 👉 **Direct Link:** [Click here to watch the full project demo on Loom](https://www.loom.com/share/89d7956ad66c49218a29bbc1ed4f7520)
